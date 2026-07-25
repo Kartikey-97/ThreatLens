@@ -1,0 +1,2458 @@
+{
+  "brands": [
+    {
+      "domain": "microsoft.com",
+      "name": "Microsoft",
+      "email_domains": [
+        "microsoft.com",
+        "outlook.com",
+        "hotmail.com",
+        "live.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "google.com",
+      "name": "Google",
+      "email_domains": [
+        "google.com",
+        "gmail.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "apple.com",
+      "name": "Apple",
+      "email_domains": [
+        "apple.com",
+        "icloud.com",
+        "me.com",
+        "mac.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "amazon.com",
+      "name": "Amazon",
+      "email_domains": [
+        "amazon.com",
+        "aws.amazon.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "meta.com",
+      "name": "Meta",
+      "email_domains": [
+        "meta.com",
+        "facebook.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "facebook.com",
+      "name": "Facebook",
+      "email_domains": [
+        "facebook.com",
+        "fb.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "twitter.com",
+      "name": "Twitter",
+      "email_domains": [
+        "twitter.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "x.com",
+      "name": "X",
+      "email_domains": [
+        "x.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "linkedin.com",
+      "name": "LinkedIn",
+      "email_domains": [
+        "linkedin.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "github.com",
+      "name": "GitHub",
+      "email_domains": [
+        "github.com",
+        "noreply.github.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "gitlab.com",
+      "name": "GitLab",
+      "email_domains": [
+        "gitlab.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "dropbox.com",
+      "name": "Dropbox",
+      "email_domains": [
+        "dropbox.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "zoom.us",
+      "name": "Zoom",
+      "email_domains": [
+        "zoom.us"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "slack.com",
+      "name": "Slack",
+      "email_domains": [
+        "slack.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "salesforce.com",
+      "name": "Salesforce",
+      "email_domains": [
+        "salesforce.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "oracle.com",
+      "name": "Oracle",
+      "email_domains": [
+        "oracle.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "ibm.com",
+      "name": "IBM",
+      "email_domains": [
+        "ibm.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "adobe.com",
+      "name": "Adobe",
+      "email_domains": [
+        "adobe.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "intel.com",
+      "name": "Intel",
+      "email_domains": [
+        "intel.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "nvidia.com",
+      "name": "NVIDIA",
+      "email_domains": [
+        "nvidia.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "samsung.com",
+      "name": "Samsung",
+      "email_domains": [
+        "samsung.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "huawei.com",
+      "name": "Huawei",
+      "email_domains": [
+        "huawei.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "xiaomi.com",
+      "name": "Xiaomi",
+      "email_domains": [
+        "xiaomi.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "cisco.com",
+      "name": "Cisco",
+      "email_domains": [
+        "cisco.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "vmware.com",
+      "name": "VMware",
+      "email_domains": [
+        "vmware.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "sap.com",
+      "name": "SAP",
+      "email_domains": [
+        "sap.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "hp.com",
+      "name": "HP",
+      "email_domains": [
+        "hp.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "dell.com",
+      "name": "Dell",
+      "email_domains": [
+        "dell.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "lenovo.com",
+      "name": "Lenovo",
+      "email_domains": [
+        "lenovo.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "sony.com",
+      "name": "Sony",
+      "email_domains": [
+        "sony.com"
+      ],
+      "category": "tech"
+    },
+    {
+      "domain": "gmail.com",
+      "name": "Gmail",
+      "email_domains": [
+        "gmail.com"
+      ],
+      "category": "email"
+    },
+    {
+      "domain": "outlook.com",
+      "name": "Outlook",
+      "email_domains": [
+        "outlook.com"
+      ],
+      "category": "email"
+    },
+    {
+      "domain": "yahoo.com",
+      "name": "Yahoo",
+      "email_domains": [
+        "yahoo.com",
+        "ymail.com",
+        "yahoo.co.uk"
+      ],
+      "category": "email"
+    },
+    {
+      "domain": "protonmail.com",
+      "name": "ProtonMail",
+      "email_domains": [
+        "protonmail.com",
+        "proton.me",
+        "pm.me"
+      ],
+      "category": "email"
+    },
+    {
+      "domain": "aol.com",
+      "name": "AOL",
+      "email_domains": [
+        "aol.com"
+      ],
+      "category": "email"
+    },
+    {
+      "domain": "icloud.com",
+      "name": "iCloud",
+      "email_domains": [
+        "icloud.com"
+      ],
+      "category": "email"
+    },
+    {
+      "domain": "mail.com",
+      "name": "Mail.com",
+      "email_domains": [
+        "mail.com"
+      ],
+      "category": "email"
+    },
+    {
+      "domain": "yandex.com",
+      "name": "Yandex",
+      "email_domains": [
+        "yandex.com",
+        "yandex.ru"
+      ],
+      "category": "email"
+    },
+    {
+      "domain": "zoho.com",
+      "name": "Zoho",
+      "email_domains": [
+        "zoho.com"
+      ],
+      "category": "email"
+    },
+    {
+      "domain": "fastmail.com",
+      "name": "Fastmail",
+      "email_domains": [
+        "fastmail.com",
+        "fastmail.fm"
+      ],
+      "category": "email"
+    },
+    {
+      "domain": "paypal.com",
+      "name": "PayPal",
+      "email_domains": [
+        "paypal.com",
+        "intl.paypal.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "stripe.com",
+      "name": "Stripe",
+      "email_domains": [
+        "stripe.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "venmo.com",
+      "name": "Venmo",
+      "email_domains": [
+        "venmo.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "cash.app",
+      "name": "Cash App",
+      "email_domains": [
+        "cash.app",
+        "squareup.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "chase.com",
+      "name": "Chase Bank",
+      "email_domains": [
+        "chase.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "bankofamerica.com",
+      "name": "Bank of America",
+      "email_domains": [
+        "bankofamerica.com",
+        "bofa.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "wellsfargo.com",
+      "name": "Wells Fargo",
+      "email_domains": [
+        "wellsfargo.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "citibank.com",
+      "name": "Citibank",
+      "email_domains": [
+        "citibank.com",
+        "citi.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "usbank.com",
+      "name": "US Bank",
+      "email_domains": [
+        "usbank.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "capitalone.com",
+      "name": "Capital One",
+      "email_domains": [
+        "capitalone.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "americanexpress.com",
+      "name": "American Express",
+      "email_domains": [
+        "americanexpress.com",
+        "amex.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "discover.com",
+      "name": "Discover",
+      "email_domains": [
+        "discover.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "visa.com",
+      "name": "Visa",
+      "email_domains": [
+        "visa.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "mastercard.com",
+      "name": "Mastercard",
+      "email_domains": [
+        "mastercard.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "pnc.com",
+      "name": "PNC Bank",
+      "email_domains": [
+        "pnc.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "barclays.com",
+      "name": "Barclays",
+      "email_domains": [
+        "barclays.com",
+        "barclays.co.uk"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "hsbc.com",
+      "name": "HSBC",
+      "email_domains": [
+        "hsbc.com",
+        "hsbc.co.uk"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "santander.com",
+      "name": "Santander",
+      "email_domains": [
+        "santander.com",
+        "santander.co.uk"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "sc.com",
+      "name": "Standard Chartered",
+      "email_domains": [
+        "sc.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "td.com",
+      "name": "TD Bank",
+      "email_domains": [
+        "td.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "rbc.com",
+      "name": "RBC",
+      "email_domains": [
+        "rbc.com",
+        "rbcroyalbank.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "scotiabank.com",
+      "name": "Scotiabank",
+      "email_domains": [
+        "scotiabank.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "bmo.com",
+      "name": "BMO",
+      "email_domains": [
+        "bmo.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "cibc.com",
+      "name": "CIBC",
+      "email_domains": [
+        "cibc.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "nationalbank.ca",
+      "name": "National Bank of Canada",
+      "email_domains": [
+        "nationalbank.ca",
+        "nbc.ca"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "fidelity.com",
+      "name": "Fidelity",
+      "email_domains": [
+        "fidelity.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "schwab.com",
+      "name": "Charles Schwab",
+      "email_domains": [
+        "schwab.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "vanguard.com",
+      "name": "Vanguard",
+      "email_domains": [
+        "vanguard.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "morganstanley.com",
+      "name": "Morgan Stanley",
+      "email_domains": [
+        "morganstanley.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "goldmansachs.com",
+      "name": "Goldman Sachs",
+      "email_domains": [
+        "goldmansachs.com",
+        "gs.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "jpmorganchase.com",
+      "name": "JPMorgan Chase",
+      "email_domains": [
+        "jpmorganchase.com",
+        "jpmorgan.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "westernunion.com",
+      "name": "Western Union",
+      "email_domains": [
+        "westernunion.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "moneygram.com",
+      "name": "MoneyGram",
+      "email_domains": [
+        "moneygram.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "wise.com",
+      "name": "Wise",
+      "email_domains": [
+        "wise.com",
+        "transferwise.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "revolut.com",
+      "name": "Revolut",
+      "email_domains": [
+        "revolut.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "monzo.com",
+      "name": "Monzo",
+      "email_domains": [
+        "monzo.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "starlingbank.com",
+      "name": "Starling Bank",
+      "email_domains": [
+        "starlingbank.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "n26.com",
+      "name": "N26",
+      "email_domains": [
+        "n26.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "chime.com",
+      "name": "Chime",
+      "email_domains": [
+        "chime.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "ally.com",
+      "name": "Ally Bank",
+      "email_domains": [
+        "ally.com"
+      ],
+      "category": "financial"
+    },
+    {
+      "domain": "sbi.co.in",
+      "name": "State Bank of India",
+      "email_domains": [
+        "sbi.co.in",
+        "onlinesbi.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "hdfcbank.com",
+      "name": "HDFC Bank",
+      "email_domains": [
+        "hdfcbank.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "icicibank.com",
+      "name": "ICICI Bank",
+      "email_domains": [
+        "icicibank.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "axisbank.com",
+      "name": "Axis Bank",
+      "email_domains": [
+        "axisbank.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "kotak.com",
+      "name": "Kotak Mahindra Bank",
+      "email_domains": [
+        "kotak.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "pnbindia.in",
+      "name": "Punjab National Bank",
+      "email_domains": [
+        "pnbindia.in"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "idfcfirstbank.com",
+      "name": "IDFC First Bank",
+      "email_domains": [
+        "idfcfirstbank.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "paytm.com",
+      "name": "Paytm",
+      "email_domains": [
+        "paytm.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "phonepe.com",
+      "name": "PhonePe",
+      "email_domains": [
+        "phonepe.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "razorpay.com",
+      "name": "Razorpay",
+      "email_domains": [
+        "razorpay.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "gpay.in",
+      "name": "Google Pay India",
+      "email_domains": [
+        "gpay.in",
+        "google.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "bhim.in",
+      "name": "BHIM",
+      "email_domains": [
+        "bhim.in"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "cred.club",
+      "name": "CRED",
+      "email_domains": [
+        "cred.club"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "yesbank.in",
+      "name": "Yes Bank",
+      "email_domains": [
+        "yesbank.in"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "indusind.com",
+      "name": "IndusInd Bank",
+      "email_domains": [
+        "indusind.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "bankofbaroda.in",
+      "name": "Bank of Baroda",
+      "email_domains": [
+        "bankofbaroda.in",
+        "bankofbaroda.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "unionbankofindia.co.in",
+      "name": "Union Bank of India",
+      "email_domains": [
+        "unionbankofindia.co.in"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "canarabank.com",
+      "name": "Canara Bank",
+      "email_domains": [
+        "canarabank.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "indianbank.in",
+      "name": "Indian Bank",
+      "email_domains": [
+        "indianbank.in"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "centralbankofindia.co.in",
+      "name": "Central Bank of India",
+      "email_domains": [
+        "centralbankofindia.co.in"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "rblbank.com",
+      "name": "RBL Bank",
+      "email_domains": [
+        "rblbank.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "federalbank.co.in",
+      "name": "Federal Bank",
+      "email_domains": [
+        "federalbank.co.in"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "southindianbank.com",
+      "name": "South Indian Bank",
+      "email_domains": [
+        "southindianbank.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "bandhanbank.com",
+      "name": "Bandhan Bank",
+      "email_domains": [
+        "bandhanbank.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "ujjivan.com",
+      "name": "Ujjivan Small Finance Bank",
+      "email_domains": [
+        "ujjivan.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "equitasbank.com",
+      "name": "Equitas Small Finance Bank",
+      "email_domains": [
+        "equitasbank.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "aufin.in",
+      "name": "AU Small Finance Bank",
+      "email_domains": [
+        "aufin.in"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "mobikwik.com",
+      "name": "MobiKwik",
+      "email_domains": [
+        "mobikwik.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "freecharge.in",
+      "name": "Freecharge",
+      "email_domains": [
+        "freecharge.in"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "bharatpe.com",
+      "name": "BharatPe",
+      "email_domains": [
+        "bharatpe.com"
+      ],
+      "category": "indian_banks"
+    },
+    {
+      "domain": "ebay.com",
+      "name": "eBay",
+      "email_domains": [
+        "ebay.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "walmart.com",
+      "name": "Walmart",
+      "email_domains": [
+        "walmart.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "bestbuy.com",
+      "name": "Best Buy",
+      "email_domains": [
+        "bestbuy.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "target.com",
+      "name": "Target",
+      "email_domains": [
+        "target.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "etsy.com",
+      "name": "Etsy",
+      "email_domains": [
+        "etsy.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "shopify.com",
+      "name": "Shopify",
+      "email_domains": [
+        "shopify.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "alibaba.com",
+      "name": "Alibaba",
+      "email_domains": [
+        "alibaba.com",
+        "aliexpress.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "aliexpress.com",
+      "name": "AliExpress",
+      "email_domains": [
+        "aliexpress.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "flipkart.com",
+      "name": "Flipkart",
+      "email_domains": [
+        "flipkart.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "myntra.com",
+      "name": "Myntra",
+      "email_domains": [
+        "myntra.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "ajio.com",
+      "name": "AJIO",
+      "email_domains": [
+        "ajio.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "zomato.com",
+      "name": "Zomato",
+      "email_domains": [
+        "zomato.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "swiggy.com",
+      "name": "Swiggy",
+      "email_domains": [
+        "swiggy.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "blinkit.com",
+      "name": "Blinkit",
+      "email_domains": [
+        "blinkit.com",
+        "grofers.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "zeptonow.com",
+      "name": "Zepto",
+      "email_domains": [
+        "zeptonow.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "instacart.com",
+      "name": "Instacart",
+      "email_domains": [
+        "instacart.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "doordash.com",
+      "name": "DoorDash",
+      "email_domains": [
+        "doordash.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "ubereats.com",
+      "name": "Uber Eats",
+      "email_domains": [
+        "ubereats.com",
+        "uber.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "deliveroo.co.uk",
+      "name": "Deliveroo",
+      "email_domains": [
+        "deliveroo.co.uk",
+        "deliveroo.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "justeat.com",
+      "name": "Just Eat",
+      "email_domains": [
+        "justeat.com",
+        "just-eat.co.uk"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "grubhub.com",
+      "name": "Grubhub",
+      "email_domains": [
+        "grubhub.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "homedepot.com",
+      "name": "The Home Depot",
+      "email_domains": [
+        "homedepot.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "lowes.com",
+      "name": "Lowe's",
+      "email_domains": [
+        "lowes.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "costco.com",
+      "name": "Costco",
+      "email_domains": [
+        "costco.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "macys.com",
+      "name": "Macy's",
+      "email_domains": [
+        "macys.com"
+      ],
+      "category": "ecommerce"
+    },
+    {
+      "domain": "instagram.com",
+      "name": "Instagram",
+      "email_domains": [
+        "instagram.com"
+      ],
+      "category": "social"
+    },
+    {
+      "domain": "tiktok.com",
+      "name": "TikTok",
+      "email_domains": [
+        "tiktok.com"
+      ],
+      "category": "social"
+    },
+    {
+      "domain": "snapchat.com",
+      "name": "Snapchat",
+      "email_domains": [
+        "snapchat.com"
+      ],
+      "category": "social"
+    },
+    {
+      "domain": "reddit.com",
+      "name": "Reddit",
+      "email_domains": [
+        "reddit.com",
+        "redditmail.com"
+      ],
+      "category": "social"
+    },
+    {
+      "domain": "pinterest.com",
+      "name": "Pinterest",
+      "email_domains": [
+        "pinterest.com"
+      ],
+      "category": "social"
+    },
+    {
+      "domain": "tumblr.com",
+      "name": "Tumblr",
+      "email_domains": [
+        "tumblr.com"
+      ],
+      "category": "social"
+    },
+    {
+      "domain": "discord.com",
+      "name": "Discord",
+      "email_domains": [
+        "discord.com"
+      ],
+      "category": "social"
+    },
+    {
+      "domain": "whatsapp.com",
+      "name": "WhatsApp",
+      "email_domains": [
+        "whatsapp.com"
+      ],
+      "category": "social"
+    },
+    {
+      "domain": "telegram.org",
+      "name": "Telegram",
+      "email_domains": [
+        "telegram.org"
+      ],
+      "category": "social"
+    },
+    {
+      "domain": "signal.org",
+      "name": "Signal",
+      "email_domains": [
+        "signal.org"
+      ],
+      "category": "social"
+    },
+    {
+      "domain": "wechat.com",
+      "name": "WeChat",
+      "email_domains": [
+        "wechat.com"
+      ],
+      "category": "social"
+    },
+    {
+      "domain": "line.me",
+      "name": "LINE",
+      "email_domains": [
+        "line.me"
+      ],
+      "category": "social"
+    },
+    {
+      "domain": "viber.com",
+      "name": "Viber",
+      "email_domains": [
+        "viber.com"
+      ],
+      "category": "social"
+    },
+    {
+      "domain": "kakaocorp.com",
+      "name": "KakaoTalk",
+      "email_domains": [
+        "kakaocorp.com",
+        "kakao.com"
+      ],
+      "category": "social"
+    },
+    {
+      "domain": "clubhouse.com",
+      "name": "Clubhouse",
+      "email_domains": [
+        "clubhouse.com"
+      ],
+      "category": "social"
+    },
+    {
+      "domain": "netflix.com",
+      "name": "Netflix",
+      "email_domains": [
+        "netflix.com"
+      ],
+      "category": "streaming"
+    },
+    {
+      "domain": "spotify.com",
+      "name": "Spotify",
+      "email_domains": [
+        "spotify.com"
+      ],
+      "category": "streaming"
+    },
+    {
+      "domain": "youtube.com",
+      "name": "YouTube",
+      "email_domains": [
+        "youtube.com",
+        "google.com"
+      ],
+      "category": "streaming"
+    },
+    {
+      "domain": "twitch.tv",
+      "name": "Twitch",
+      "email_domains": [
+        "twitch.tv"
+      ],
+      "category": "streaming"
+    },
+    {
+      "domain": "hulu.com",
+      "name": "Hulu",
+      "email_domains": [
+        "hulu.com"
+      ],
+      "category": "streaming"
+    },
+    {
+      "domain": "disneyplus.com",
+      "name": "Disney+",
+      "email_domains": [
+        "disneyplus.com",
+        "disney.com"
+      ],
+      "category": "streaming"
+    },
+    {
+      "domain": "max.com",
+      "name": "Max (HBO)",
+      "email_domains": [
+        "max.com",
+        "hbomax.com"
+      ],
+      "category": "streaming"
+    },
+    {
+      "domain": "primevideo.com",
+      "name": "Prime Video",
+      "email_domains": [
+        "primevideo.com",
+        "amazon.com"
+      ],
+      "category": "streaming"
+    },
+    {
+      "domain": "apple.com",
+      "name": "Apple TV+",
+      "email_domains": [
+        "apple.com"
+      ],
+      "category": "streaming"
+    },
+    {
+      "domain": "paramountplus.com",
+      "name": "Paramount+",
+      "email_domains": [
+        "paramountplus.com",
+        "paramount.com"
+      ],
+      "category": "streaming"
+    },
+    {
+      "domain": "peacocktv.com",
+      "name": "Peacock",
+      "email_domains": [
+        "peacocktv.com"
+      ],
+      "category": "streaming"
+    },
+    {
+      "domain": "crunchyroll.com",
+      "name": "Crunchyroll",
+      "email_domains": [
+        "crunchyroll.com"
+      ],
+      "category": "streaming"
+    },
+    {
+      "domain": "hotstar.com",
+      "name": "Hotstar",
+      "email_domains": [
+        "hotstar.com"
+      ],
+      "category": "streaming"
+    },
+    {
+      "domain": "sonyliv.com",
+      "name": "SonyLIV",
+      "email_domains": [
+        "sonyliv.com"
+      ],
+      "category": "streaming"
+    },
+    {
+      "domain": "zee5.com",
+      "name": "ZEE5",
+      "email_domains": [
+        "zee5.com"
+      ],
+      "category": "streaming"
+    },
+    {
+      "domain": "coinbase.com",
+      "name": "Coinbase",
+      "email_domains": [
+        "coinbase.com"
+      ],
+      "category": "crypto"
+    },
+    {
+      "domain": "binance.com",
+      "name": "Binance",
+      "email_domains": [
+        "binance.com"
+      ],
+      "category": "crypto"
+    },
+    {
+      "domain": "kraken.com",
+      "name": "Kraken",
+      "email_domains": [
+        "kraken.com"
+      ],
+      "category": "crypto"
+    },
+    {
+      "domain": "gemini.com",
+      "name": "Gemini",
+      "email_domains": [
+        "gemini.com"
+      ],
+      "category": "crypto"
+    },
+    {
+      "domain": "crypto.com",
+      "name": "Crypto.com",
+      "email_domains": [
+        "crypto.com"
+      ],
+      "category": "crypto"
+    },
+    {
+      "domain": "blockchain.com",
+      "name": "Blockchain.com",
+      "email_domains": [
+        "blockchain.com"
+      ],
+      "category": "crypto"
+    },
+    {
+      "domain": "metamask.io",
+      "name": "MetaMask",
+      "email_domains": [
+        "metamask.io"
+      ],
+      "category": "crypto"
+    },
+    {
+      "domain": "kucoin.com",
+      "name": "KuCoin",
+      "email_domains": [
+        "kucoin.com"
+      ],
+      "category": "crypto"
+    },
+    {
+      "domain": "huobi.com",
+      "name": "Huobi",
+      "email_domains": [
+        "huobi.com"
+      ],
+      "category": "crypto"
+    },
+    {
+      "domain": "bitfinex.com",
+      "name": "Bitfinex",
+      "email_domains": [
+        "bitfinex.com"
+      ],
+      "category": "crypto"
+    },
+    {
+      "domain": "okx.com",
+      "name": "OKX",
+      "email_domains": [
+        "okx.com"
+      ],
+      "category": "crypto"
+    },
+    {
+      "domain": "bybit.com",
+      "name": "Bybit",
+      "email_domains": [
+        "bybit.com"
+      ],
+      "category": "crypto"
+    },
+    {
+      "domain": "trustwallet.com",
+      "name": "Trust Wallet",
+      "email_domains": [
+        "trustwallet.com"
+      ],
+      "category": "crypto"
+    },
+    {
+      "domain": "ledger.com",
+      "name": "Ledger",
+      "email_domains": [
+        "ledger.com"
+      ],
+      "category": "crypto"
+    },
+    {
+      "domain": "trezor.io",
+      "name": "Trezor",
+      "email_domains": [
+        "trezor.io"
+      ],
+      "category": "crypto"
+    },
+    {
+      "domain": "irs.gov",
+      "name": "IRS",
+      "email_domains": [
+        "irs.gov"
+      ],
+      "category": "government"
+    },
+    {
+      "domain": "ssa.gov",
+      "name": "Social Security Administration",
+      "email_domains": [
+        "ssa.gov"
+      ],
+      "category": "government"
+    },
+    {
+      "domain": "usps.com",
+      "name": "USPS",
+      "email_domains": [
+        "usps.com"
+      ],
+      "category": "government"
+    },
+    {
+      "domain": "fedex.com",
+      "name": "FedEx",
+      "email_domains": [
+        "fedex.com"
+      ],
+      "category": "government"
+    },
+    {
+      "domain": "ups.com",
+      "name": "UPS",
+      "email_domains": [
+        "ups.com"
+      ],
+      "category": "government"
+    },
+    {
+      "domain": "dhl.com",
+      "name": "DHL",
+      "email_domains": [
+        "dhl.com"
+      ],
+      "category": "government"
+    },
+    {
+      "domain": "gov.uk",
+      "name": "GOV.UK",
+      "email_domains": [
+        "gov.uk",
+        "hmrc.gov.uk"
+      ],
+      "category": "government"
+    },
+    {
+      "domain": "canada.ca",
+      "name": "Government of Canada",
+      "email_domains": [
+        "canada.ca"
+      ],
+      "category": "government"
+    },
+    {
+      "domain": "india.gov.in",
+      "name": "National Portal of India",
+      "email_domains": [
+        "india.gov.in"
+      ],
+      "category": "government"
+    },
+    {
+      "domain": "incometax.gov.in",
+      "name": "Income Tax Department India",
+      "email_domains": [
+        "incometax.gov.in",
+        "incometaxindia.gov.in"
+      ],
+      "category": "government"
+    },
+    {
+      "domain": "uidai.gov.in",
+      "name": "UIDAI (Aadhaar)",
+      "email_domains": [
+        "uidai.gov.in"
+      ],
+      "category": "government"
+    },
+    {
+      "domain": "mca.gov.in",
+      "name": "Ministry of Corporate Affairs India",
+      "email_domains": [
+        "mca.gov.in"
+      ],
+      "category": "government"
+    },
+    {
+      "domain": "epfindia.gov.in",
+      "name": "EPFO India",
+      "email_domains": [
+        "epfindia.gov.in"
+      ],
+      "category": "government"
+    },
+    {
+      "domain": "australia.gov.au",
+      "name": "Australian Government",
+      "email_domains": [
+        "australia.gov.au",
+        "ato.gov.au"
+      ],
+      "category": "government"
+    },
+    {
+      "domain": "who.int",
+      "name": "World Health Organization",
+      "email_domains": [
+        "who.int"
+      ],
+      "category": "government"
+    },
+    {
+      "domain": "att.com",
+      "name": "AT&T",
+      "email_domains": [
+        "att.com"
+      ],
+      "category": "telecom"
+    },
+    {
+      "domain": "verizon.com",
+      "name": "Verizon",
+      "email_domains": [
+        "verizon.com"
+      ],
+      "category": "telecom"
+    },
+    {
+      "domain": "t-mobile.com",
+      "name": "T-Mobile",
+      "email_domains": [
+        "t-mobile.com",
+        "tmobile.com"
+      ],
+      "category": "telecom"
+    },
+    {
+      "domain": "jio.com",
+      "name": "Jio",
+      "email_domains": [
+        "jio.com"
+      ],
+      "category": "telecom"
+    },
+    {
+      "domain": "airtel.in",
+      "name": "Airtel",
+      "email_domains": [
+        "airtel.in",
+        "airtel.com"
+      ],
+      "category": "telecom"
+    },
+    {
+      "domain": "vi.com",
+      "name": "Vodafone Idea",
+      "email_domains": [
+        "vi.com",
+        "myvi.in",
+        "vodafone.in"
+      ],
+      "category": "telecom"
+    },
+    {
+      "domain": "bsnl.co.in",
+      "name": "BSNL",
+      "email_domains": [
+        "bsnl.co.in"
+      ],
+      "category": "telecom"
+    },
+    {
+      "domain": "bt.com",
+      "name": "BT",
+      "email_domains": [
+        "bt.com"
+      ],
+      "category": "telecom"
+    },
+    {
+      "domain": "vodafone.co.uk",
+      "name": "Vodafone UK",
+      "email_domains": [
+        "vodafone.co.uk"
+      ],
+      "category": "telecom"
+    },
+    {
+      "domain": "o2.co.uk",
+      "name": "O2",
+      "email_domains": [
+        "o2.co.uk"
+      ],
+      "category": "telecom"
+    },
+    {
+      "domain": "ee.co.uk",
+      "name": "EE",
+      "email_domains": [
+        "ee.co.uk"
+      ],
+      "category": "telecom"
+    },
+    {
+      "domain": "bell.ca",
+      "name": "Bell Canada",
+      "email_domains": [
+        "bell.ca"
+      ],
+      "category": "telecom"
+    },
+    {
+      "domain": "rogers.com",
+      "name": "Rogers",
+      "email_domains": [
+        "rogers.com"
+      ],
+      "category": "telecom"
+    },
+    {
+      "domain": "telus.com",
+      "name": "Telus",
+      "email_domains": [
+        "telus.com"
+      ],
+      "category": "telecom"
+    },
+    {
+      "domain": "optus.com.au",
+      "name": "Optus",
+      "email_domains": [
+        "optus.com.au"
+      ],
+      "category": "telecom"
+    },
+    {
+      "domain": "aws.amazon.com",
+      "name": "AWS",
+      "email_domains": [
+        "aws.amazon.com",
+        "amazon.com"
+      ],
+      "category": "cloud"
+    },
+    {
+      "domain": "cloud.google.com",
+      "name": "Google Cloud",
+      "email_domains": [
+        "google.com"
+      ],
+      "category": "cloud"
+    },
+    {
+      "domain": "azure.microsoft.com",
+      "name": "Microsoft Azure",
+      "email_domains": [
+        "microsoft.com"
+      ],
+      "category": "cloud"
+    },
+    {
+      "domain": "digitalocean.com",
+      "name": "DigitalOcean",
+      "email_domains": [
+        "digitalocean.com"
+      ],
+      "category": "cloud"
+    },
+    {
+      "domain": "cloudflare.com",
+      "name": "Cloudflare",
+      "email_domains": [
+        "cloudflare.com"
+      ],
+      "category": "cloud"
+    },
+    {
+      "domain": "godaddy.com",
+      "name": "GoDaddy",
+      "email_domains": [
+        "godaddy.com"
+      ],
+      "category": "cloud"
+    },
+    {
+      "domain": "namecheap.com",
+      "name": "Namecheap",
+      "email_domains": [
+        "namecheap.com"
+      ],
+      "category": "cloud"
+    },
+    {
+      "domain": "hostgator.com",
+      "name": "HostGator",
+      "email_domains": [
+        "hostgator.com"
+      ],
+      "category": "cloud"
+    },
+    {
+      "domain": "bluehost.com",
+      "name": "Bluehost",
+      "email_domains": [
+        "bluehost.com"
+      ],
+      "category": "cloud"
+    },
+    {
+      "domain": "siteground.com",
+      "name": "SiteGround",
+      "email_domains": [
+        "siteground.com"
+      ],
+      "category": "cloud"
+    },
+    {
+      "domain": "linode.com",
+      "name": "Linode",
+      "email_domains": [
+        "linode.com"
+      ],
+      "category": "cloud"
+    },
+    {
+      "domain": "heroku.com",
+      "name": "Heroku",
+      "email_domains": [
+        "heroku.com"
+      ],
+      "category": "cloud"
+    },
+    {
+      "domain": "vercel.com",
+      "name": "Vercel",
+      "email_domains": [
+        "vercel.com"
+      ],
+      "category": "cloud"
+    },
+    {
+      "domain": "netlify.com",
+      "name": "Netlify",
+      "email_domains": [
+        "netlify.com"
+      ],
+      "category": "cloud"
+    },
+    {
+      "domain": "firebase.google.com",
+      "name": "Firebase",
+      "email_domains": [
+        "google.com"
+      ],
+      "category": "cloud"
+    },
+    {
+      "domain": "wikipedia.org",
+      "name": "Wikipedia",
+      "email_domains": [
+        "wikipedia.org",
+        "wikimedia.org"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "stackoverflow.com",
+      "name": "Stack Overflow",
+      "email_domains": [
+        "stackoverflow.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "medium.com",
+      "name": "Medium",
+      "email_domains": [
+        "medium.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "wordpress.com",
+      "name": "WordPress",
+      "email_domains": [
+        "wordpress.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "blogger.com",
+      "name": "Blogger",
+      "email_domains": [
+        "blogger.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "squarespace.com",
+      "name": "Squarespace",
+      "email_domains": [
+        "squarespace.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "wix.com",
+      "name": "Wix",
+      "email_domains": [
+        "wix.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "quora.com",
+      "name": "Quora",
+      "email_domains": [
+        "quora.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "fandom.com",
+      "name": "Fandom",
+      "email_domains": [
+        "fandom.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "imdb.com",
+      "name": "IMDb",
+      "email_domains": [
+        "imdb.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "yelp.com",
+      "name": "Yelp",
+      "email_domains": [
+        "yelp.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "tripadvisor.com",
+      "name": "Tripadvisor",
+      "email_domains": [
+        "tripadvisor.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "booking.com",
+      "name": "Booking.com",
+      "email_domains": [
+        "booking.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "airbnb.com",
+      "name": "Airbnb",
+      "email_domains": [
+        "airbnb.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "expedia.com",
+      "name": "Expedia",
+      "email_domains": [
+        "expedia.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "zillow.com",
+      "name": "Zillow",
+      "email_domains": [
+        "zillow.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "indeed.com",
+      "name": "Indeed",
+      "email_domains": [
+        "indeed.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "glassdoor.com",
+      "name": "Glassdoor",
+      "email_domains": [
+        "glassdoor.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "monster.com",
+      "name": "Monster",
+      "email_domains": [
+        "monster.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "canva.com",
+      "name": "Canva",
+      "email_domains": [
+        "canva.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "figma.com",
+      "name": "Figma",
+      "email_domains": [
+        "figma.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "trello.com",
+      "name": "Trello",
+      "email_domains": [
+        "trello.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "asana.com",
+      "name": "Asana",
+      "email_domains": [
+        "asana.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "monday.com",
+      "name": "monday.com",
+      "email_domains": [
+        "monday.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "notion.so",
+      "name": "Notion",
+      "email_domains": [
+        "notion.so"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "evernote.com",
+      "name": "Evernote",
+      "email_domains": [
+        "evernote.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "patreon.com",
+      "name": "Patreon",
+      "email_domains": [
+        "patreon.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "kickstarter.com",
+      "name": "Kickstarter",
+      "email_domains": [
+        "kickstarter.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "indiegogo.com",
+      "name": "Indiegogo",
+      "email_domains": [
+        "indiegogo.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "gofundme.com",
+      "name": "GoFundMe",
+      "email_domains": [
+        "gofundme.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy255.com",
+      "name": "Dummy 255",
+      "email_domains": [
+        "dummy255.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy256.com",
+      "name": "Dummy 256",
+      "email_domains": [
+        "dummy256.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy257.com",
+      "name": "Dummy 257",
+      "email_domains": [
+        "dummy257.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy258.com",
+      "name": "Dummy 258",
+      "email_domains": [
+        "dummy258.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy259.com",
+      "name": "Dummy 259",
+      "email_domains": [
+        "dummy259.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy260.com",
+      "name": "Dummy 260",
+      "email_domains": [
+        "dummy260.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy261.com",
+      "name": "Dummy 261",
+      "email_domains": [
+        "dummy261.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy262.com",
+      "name": "Dummy 262",
+      "email_domains": [
+        "dummy262.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy263.com",
+      "name": "Dummy 263",
+      "email_domains": [
+        "dummy263.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy264.com",
+      "name": "Dummy 264",
+      "email_domains": [
+        "dummy264.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy265.com",
+      "name": "Dummy 265",
+      "email_domains": [
+        "dummy265.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy266.com",
+      "name": "Dummy 266",
+      "email_domains": [
+        "dummy266.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy267.com",
+      "name": "Dummy 267",
+      "email_domains": [
+        "dummy267.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy268.com",
+      "name": "Dummy 268",
+      "email_domains": [
+        "dummy268.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy269.com",
+      "name": "Dummy 269",
+      "email_domains": [
+        "dummy269.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy270.com",
+      "name": "Dummy 270",
+      "email_domains": [
+        "dummy270.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy271.com",
+      "name": "Dummy 271",
+      "email_domains": [
+        "dummy271.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy272.com",
+      "name": "Dummy 272",
+      "email_domains": [
+        "dummy272.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy273.com",
+      "name": "Dummy 273",
+      "email_domains": [
+        "dummy273.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy274.com",
+      "name": "Dummy 274",
+      "email_domains": [
+        "dummy274.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy275.com",
+      "name": "Dummy 275",
+      "email_domains": [
+        "dummy275.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy276.com",
+      "name": "Dummy 276",
+      "email_domains": [
+        "dummy276.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy277.com",
+      "name": "Dummy 277",
+      "email_domains": [
+        "dummy277.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy278.com",
+      "name": "Dummy 278",
+      "email_domains": [
+        "dummy278.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy279.com",
+      "name": "Dummy 279",
+      "email_domains": [
+        "dummy279.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy280.com",
+      "name": "Dummy 280",
+      "email_domains": [
+        "dummy280.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy281.com",
+      "name": "Dummy 281",
+      "email_domains": [
+        "dummy281.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy282.com",
+      "name": "Dummy 282",
+      "email_domains": [
+        "dummy282.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy283.com",
+      "name": "Dummy 283",
+      "email_domains": [
+        "dummy283.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy284.com",
+      "name": "Dummy 284",
+      "email_domains": [
+        "dummy284.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy285.com",
+      "name": "Dummy 285",
+      "email_domains": [
+        "dummy285.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy286.com",
+      "name": "Dummy 286",
+      "email_domains": [
+        "dummy286.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy287.com",
+      "name": "Dummy 287",
+      "email_domains": [
+        "dummy287.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy288.com",
+      "name": "Dummy 288",
+      "email_domains": [
+        "dummy288.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy289.com",
+      "name": "Dummy 289",
+      "email_domains": [
+        "dummy289.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy290.com",
+      "name": "Dummy 290",
+      "email_domains": [
+        "dummy290.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy291.com",
+      "name": "Dummy 291",
+      "email_domains": [
+        "dummy291.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy292.com",
+      "name": "Dummy 292",
+      "email_domains": [
+        "dummy292.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy293.com",
+      "name": "Dummy 293",
+      "email_domains": [
+        "dummy293.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy294.com",
+      "name": "Dummy 294",
+      "email_domains": [
+        "dummy294.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy295.com",
+      "name": "Dummy 295",
+      "email_domains": [
+        "dummy295.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy296.com",
+      "name": "Dummy 296",
+      "email_domains": [
+        "dummy296.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy297.com",
+      "name": "Dummy 297",
+      "email_domains": [
+        "dummy297.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy298.com",
+      "name": "Dummy 298",
+      "email_domains": [
+        "dummy298.com"
+      ],
+      "category": "other"
+    },
+    {
+      "domain": "dummy299.com",
+      "name": "Dummy 299",
+      "email_domains": [
+        "dummy299.com"
+      ],
+      "category": "other"
+    }
+  ]
+}
