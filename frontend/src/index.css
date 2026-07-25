@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply transition-colors duration-200 font-sans antialiased min-h-screen;
+  }
+}
+
+/* Custom theme helper classes */
+.dark-theme {
+  background-color: #0b0f19;
+  color: #f1f5f9;
+}
+
+.light-theme {
+  background-color: #f8fafc;
+  color: #0f172a;
+}
+
+/* Card styling without heavy gradients */
+.clean-card-dark {
+  background-color: #111827;
+  border: 1px solid #1f2937;
+}
+
+.clean-card-light {
+  background-color: #ffffff;
+  border: 1px solid #e2e8f0;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #475569;
+  border-radius: 4px;
+}
