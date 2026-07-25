@@ -15,7 +15,7 @@ export default function UrlScanner({ onResult, setLoading, loading }) {
     setLoading(true);
 
     try {
-      const response = await fetch('http://localhost:8000/check-url', {
+      const response = await fetch('https://threatlens-v5jg.onrender.com/check-url', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ url: url.trim() }),

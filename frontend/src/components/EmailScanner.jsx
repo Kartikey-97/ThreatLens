@@ -17,7 +17,7 @@ export default function EmailScanner({ onResult, setLoading, loading }) {
     setLoading(true);
 
     try {
-      const response = await fetch('http://localhost:8000/check-email', {
+      const response = await fetch('https://threatlens-v5jg.onrender.com/check-email', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ 
