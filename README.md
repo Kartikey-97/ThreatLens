@@ -6,6 +6,46 @@ ThreatLens is an advanced, dual-layer AI and heuristic threat detection system. 
 
 ## Architecture
 
+```mermaid
+flowchart LR
+    classDef frontend fill:#0891b2,stroke:#06b6d4,stroke-width:2px,color:#fff,rx:8px,ry:8px;
+    classDef backend fill:#4f46e5,stroke:#818cf8,stroke-width:2px,color:#fff,rx:8px,ry:8px;
+    classDef ml fill:#db2777,stroke:#f472b6,stroke-width:2px,color:#fff,rx:8px,ry:8px;
+    classDef xai fill:#d97706,stroke:#fbbf24,stroke-width:2px,color:#fff,rx:8px,ry:8px;
+    classDef aggregator fill:#059669,stroke:#34d399,stroke-width:2px,color:#fff,rx:8px,ry:8px;
+
+    UI[React/Vite Frontend]:::frontend
+    API[FastAPI Gateway]:::backend
+    
+    XGB[Branch A: ML Inference]:::ml
+    HEUR[Branch B: Heuristics Engine]:::ml
+    SCRAPE[Branch C: Async Web Scraper]:::ml
+    
+    AGG{Risk Aggregator}:::aggregator
+    GEMINI[Semantic Deep Scan Layer]:::xai
+    RES[Final JSON Response]:::frontend
+
+    UI -->|JSON Payload| API
+    
+    subgraph Parallel_Execution["Parallel Execution Layer"]
+        API --> XGB
+        API --> HEUR
+        API --> SCRAPE
+    end
+    
+    XGB -->|Probabilities| AGG
+    HEUR -->|SSL/Homoglyph| AGG
+    SCRAPE -->|Base Metadata| AGG
+    
+    AGG -->|0-100 Score| GEMINI
+    SCRAPE -.->|Raw HTML Payload| GEMINI
+    
+    GEMINI -->|Explainable AI Analysis| RES
+    AGG -->|0-100 Score| RES
+    
+    RES --> UI
+```
+
 ThreatLens is composed of a FastAPI backend and a React/Vite frontend.
 
 ### 1. The Machine Learning Engine
@@ -55,17 +95,3 @@ npm install
 npm run dev
 ```
 
-### Cloud Deployment
-
-**Frontend (Vercel)**
-- Set the Root Directory to `frontend`.
-- Framework preset: `Vite`.
-- Deploy directly from GitHub.
-
-**Backend (Render)**
-- *Note: Do not deploy the backend to Vercel due to the 10-second Serverless timeout limit.*
-- Deploy as a **Web Service** on Render.com.
-- Set the Root Directory to `backend`.
-- Build Command: `pip install -r requirements.txt`
-- Start Command: `uvicorn main:app --host 0.0.0.0 --port 10000`
-- Add `GEMINI_API_KEY` to your Render Environment Variables.
