@@ -25,23 +25,23 @@ flowchart LR
     GEMINI[Semantic Deep Scan Layer]:::xai
     RES[Final JSON Response]:::frontend
 
-    UI -->|JSON Payload| API
+    UI --> API
     
-    subgraph Parallel_Execution["Parallel Execution Layer"]
+    subgraph Parallel_Execution["Parallel Execution"]
         API --> XGB
         API --> HEUR
         API --> SCRAPE
     end
     
-    XGB -->|Probabilities| AGG
-    HEUR -->|SSL/Homoglyph| AGG
-    SCRAPE -->|Base Metadata| AGG
+    XGB --> AGG
+    HEUR --> AGG
+    SCRAPE --> AGG
     
-    AGG -->|0-100 Score| GEMINI
-    SCRAPE -.->|Raw HTML Payload| GEMINI
+    AGG --> GEMINI
+    SCRAPE -.-> GEMINI
     
-    GEMINI -->|Explainable AI Analysis| RES
-    AGG -->|0-100 Score| RES
+    GEMINI --> RES
+    AGG --> RES
     
     RES --> UI
 ```
@@ -73,6 +73,7 @@ ThreatLens is composed of a FastAPI backend and a React/Vite frontend.
 - `/backend` - FastAPI server, ML models integration, HTML Scraper, and Gemini XAI logic.
 - `/frontend` - React/Vite web application featuring a glassmorphic UI, dynamic SVGs, and local storage search history.
 - `/models` - Pre-trained XGBoost and LightGBM models (`.pkl` files).
+- `/credibility_checker` - The OSINT scraper module.
 
 ## Deployment Instructions
 
