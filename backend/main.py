@@ -324,7 +324,7 @@ async def _generate_llm_explanation(result: RiskResult, target: str, scan_type: 
         
         response = await asyncio.to_thread(
             _genai_client.models.generate_content,
-            model='gemini-2.0-flash',
+            model='gemini-flash-latest',
             contents=prompt,
         )
         return response.text.strip()
